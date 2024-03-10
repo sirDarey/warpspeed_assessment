@@ -1,0 +1,39 @@
+{
+  "message": "Fraud Detection is: TRUE",
+  "data": [
+    {
+      "eventTrigger": {
+        "timestamp": 1617906060,
+        "userID": "user1",
+        "serviceID": "serviceD",
+        "amount": 1500.00
+      },
+      "detectedFrauds": [
+        "AMOUNT_OVERFLOW",
+        "MULTI_SERVICES"
+      ]
+    },
+    {
+      "eventTrigger": {
+        "timestamp": 1617906140,
+        "userID": "user2",
+        "serviceID": "serviceD",
+        "amount": 300.00
+      },
+      "detectedFrauds": [
+        "MULTI_SERVICES"
+      ]
+    },
+    {
+      "eventTrigger": {
+        "timestamp": 1617906180,
+        "userID": "user3",
+        "serviceID": "serviceB",
+        "amount": 200.00
+      },
+      "detectedFrauds": [
+        "PING_PONG"
+      ]
+    }
+  ]
+}

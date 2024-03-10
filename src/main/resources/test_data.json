@@ -1,0 +1,112 @@
+{
+  "transactions": [
+    {
+      "timestamp": 1617906000,
+      "amount": 150.00,
+      "userID": "user1",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906020,
+      "amount": 120.00,
+      "userID": "user1",
+      "serviceID": "serviceB"
+    },
+    {
+      "timestamp": 1617906040,
+      "amount": 180.00,
+      "userID": "user1",
+      "serviceID": "serviceC"
+    },
+    {
+      "timestamp": 1617906060,
+      "amount": 1500.00,
+      "userID": "user1",
+      "serviceID": "serviceD"
+    },
+    {
+      "timestamp": 1617906080,
+      "amount": 100.00,
+      "userID": "user2",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906100,
+      "amount": 200.00,
+      "userID": "user2",
+      "serviceID": "serviceB"
+    },
+    {
+      "timestamp": 1617906120,
+      "amount": 200.00,
+      "userID": "user2",
+      "serviceID": "serviceC"
+    },
+    {
+      "timestamp": 1617906140,
+      "amount": 300.00,
+      "userID": "user2",
+      "serviceID": "serviceD"
+    },
+    {
+      "timestamp": 1617906145,
+      "amount": 200.00,
+      "userID": "user3",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906150,
+      "amount": 200.00,
+      "userID": "user3",
+      "serviceID": "serviceB"
+    },
+    {
+      "timestamp": 1617906175,
+      "amount": 200.00,
+      "userID": "user3",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906180,
+      "amount": 200.00,
+      "userID": "user3",
+      "serviceID": "serviceB"
+    },
+    {
+      "timestamp": 1617906155,
+      "amount": 200.00,
+      "userID": "user4",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906160,
+      "amount": 300.00,
+      "userID": "user4",
+      "serviceID": "serviceB"
+    },
+    {
+      "timestamp": 1617906165,
+      "amount": 250.00,
+      "userID": "user4",
+      "serviceID": "serviceC"
+    },
+    {
+      "timestamp": 1617906456,
+      "amount": 200.00,
+      "userID": "user4",
+      "serviceID": "serviceD"
+    },
+    {
+      "timestamp": 1617906461,
+      "amount": 200.00,
+      "userID": "user4",
+      "serviceID": "serviceA"
+    },
+    {
+      "timestamp": 1617906756,
+      "amount": 200.00,
+      "userID": "user4",
+      "serviceID": "serviceD"
+    }
+  ]
+}
