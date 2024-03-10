@@ -36,7 +36,7 @@ If specified criterion is true, event is flagged.
   * Time Complexity: O(1) (Without considering db processing)
   * Space Complexity: O(1)
 
-### Detecting if transaction is done in more than 3 services within a 5-minute window
+### Detecting if transactions are done in more than 3 services within a 5-minute window
 Here, an SQL is made to get the list of service IDs of this user's transactions within the last 5 minutes from the current event's timestamp.
 The result is stored in a ```Set``` Data Structure to  avoid duplicates. If the size of the set is more than 3, the event is flagged.
 
