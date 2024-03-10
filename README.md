@@ -52,7 +52,7 @@ This appears to be an O(n^2) algorithm, but it's not because, the worst case sce
 
   * Time Complexity: O(n) (Without considering db processing)
   * Space Complexity: O(n)
-  * n - number of transactions within the 10-minute window
+  * n - number of the user's transactions within the 10-minute window
 
 ### Handling out-of-order events
 This was handled by implementing a sorting mechanism using the timestamp of the events in the stream. <br>
